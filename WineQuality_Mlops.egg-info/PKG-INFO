@@ -1,0 +1,9 @@
+Metadata-Version: 2.4
+Name: WineQuality_Mlops
+Version: 0.1.0
+Summary: A machine learning project for predicting wine quality
+Author: Sahil Deogade
+License: MIT
+Dynamic: author
+Dynamic: license
+Dynamic: summary
